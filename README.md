@@ -1,8 +1,6 @@
 # TinkoffNews
 The final stage for the entry
 
-# Вступительная лабораторная работа
-
 <img class="screen_application" src="https://github.com/mightyK1ngRichard/TinkoffNews/blob/main/Screen/preview.png" width="1000">
 
 
