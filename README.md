@@ -1,7 +1,10 @@
-# TinkoffNews
-The final stage for the entry
+# Вступительная лабораторная работа
+Лабораторная работа выполнена на ветке Solution.
+```linux
+git clone -b Solution git@github.com:TFS-iOS/intro-lab-mightyK1ngRichard.git
+```
 
-<img class="screen_application" src="https://github.com/mightyK1ngRichard/TinkoffNews/blob/main/Screen/preview.png" width="1000">
+<img class="screen_application" src="https://github.com/TFS-iOS/intro-lab-mightyK1ngRichard/blob/Solution/Screen/preview.png" width="1000">
 
 
 ## Задача

@@ -48,7 +48,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="751" text="ЗаголовокЗаголовокЗаголовокЗаголовокЗаголовокЗаголовокЗаголовок" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="4" baselineAdjustment="alignBaselines" showsExpansionTextWhenTruncated="YES" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Fag-9O-0MU">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="751" text="ЗаголовокЗаголовокЗаголовокЗаголовокЗаголовокЗаголовокЗаголовок" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" showsExpansionTextWhenTruncated="YES" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Fag-9O-0MU">
                                 <rect key="frame" x="10" y="103" width="373" height="92"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="92" id="dUY-aX-ca5"/>
@@ -71,20 +71,20 @@
                                 <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Детали Детали Детали Детали Детали Детали Детали Детали Детали Детали Детали Детали" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="6" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Nrs-h6-stF">
-                                <rect key="frame" x="10" y="469" width="373" height="129"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Детали Детали Детали Детали Детали Детали Детали Детали Детали Детали Детали Детали" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Nrs-h6-stF">
+                                <rect key="frame" x="10" y="469" width="373" height="170"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="129" id="9fZ-uq-1JI"/>
+                                    <constraint firstAttribute="height" constant="170" id="9fZ-uq-1JI"/>
                                     <constraint firstAttribute="width" constant="373" id="deO-8z-92d"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Источник: " textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CRJ-US-KXt">
-                                <rect key="frame" x="10" y="603" width="373" height="79"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Источник: " textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CRJ-US-KXt">
+                                <rect key="frame" x="10" y="644" width="373" height="70"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="79" id="0T6-Y7-oTf"/>
+                                    <constraint firstAttribute="height" constant="70" id="0T6-Y7-oTf"/>
                                     <constraint firstAttribute="width" constant="373" id="HLp-Ss-ewK"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
@@ -92,7 +92,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="baU-lk-Lbb">
-                                <rect key="frame" x="10" y="682" width="373" height="86"/>
+                                <rect key="frame" x="10" y="714" width="373" height="86"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="86" id="NJb-HP-RAy"/>
                                     <constraint firstAttribute="width" constant="373" id="ycN-yb-nuK"/>
